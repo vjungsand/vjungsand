@@ -1,0 +1,17 @@
+h1{
+	font-size: 5em;
+	text-align: center;
+	color: white;
+	padding-top: :400px;
+}
+h2{
+	font-size: 4em;
+	text-align: center + 10px;
+	color: yellow;
+	padding-top: :400px;
+}
+
+body {
+
+	background-color: blue;
+}
